@@ -8,9 +8,8 @@ name: Node.js API that makes a request to the Graph API as itself
 description: This sample Node.js API demonstrates how to issue a call to a protected API using the client credentials flow.  A request will be issued to Microsoft Graph using the application's own identity.
 products:
 - azure
-- azure-active-directory
+- entra-id
 - ms-graph
-- microsoft-identity-platform
 urlFragment: ms-identity-docs-code-webapi-nodejs-client-credentials-flow
 ---
 
